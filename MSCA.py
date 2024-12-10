@@ -1379,7 +1379,7 @@ while True:
         print('\n')
         print('*' * 15, 'Curto Trifásico', '*' * 15)
         tipo_curto = "trifásico"
-        ifa_1 = Vf / zkk_1
+        ifa_1 = Vf / (zkk_1 + zf)
         ifa_2 = 0
         ifa_0 = 0
 
