@@ -1,7 +1,7 @@
 import time
 import numpy as np
 import cmath
-import math
+import math alllllllaaaanaaaaa
 
 # Premissas principais: Número de barras e Potencia base do Sistema
 # Inicialização da matriz base e coleta de dados
